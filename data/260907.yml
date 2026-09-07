@@ -5,13 +5,13 @@ about:
   head: 1c3eb95
   archived: false
   latestVersion: "v1.6.2"
-  collectedAt: 2026-09-07T06:18:38Z
+  collectedAt: 2026-09-07T18:15:25Z
 timeline:
   created: 2022-04-09
   lastCommit: 2026-08-16
   lastRelease: 2026-08-16
 popularity:
-  star: 396
+  star: 397
   watcher: 8
   fork: 12
   release: 58
@@ -80,7 +80,7 @@ total:
   commit: 364
 ---
 path: /home/runner/.x-repo/github.com/inv2004/ttop
-collectedAt: 2026-09-07T06:18:39Z
+collectedAt: 2026-09-07T18:15:27Z
 loc:
   Nim:
     code: 1843
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:18:39+00:00
+  collectedAt: 2026-09-07T18:15:31+00:00
   platform:
     darwin/arm64:
       name:  null
