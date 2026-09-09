@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.2"
   latestRelease: "v1.6.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:21:51Z
+  collectedAt: 2026-09-09T20:52:12Z
 timeline:
   created: 2022-04-09
   lastCommit: 2026-08-16
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-16
   lastPrerelease: 
 popularity:
-  star: 396
+  star: 397
   watcher: 8
   fork: 12
   release: 58
@@ -84,7 +84,7 @@ total:
   commit: 364
 ---
 path: /home/runner/.x-repo/github.com/inv2004/ttop
-collectedAt: 2026-09-09T06:21:53Z
+collectedAt: 2026-09-09T20:52:12Z
 loc:
   Nim:
     code: 1843
