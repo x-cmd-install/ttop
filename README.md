@@ -35,7 +35,7 @@ Total: **1,844** lines of code across **14** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 400 · **Forks**: 13 · **Open issues**: 35 · **Contributors**: 4
+- **Stars**: 401 · **Forks**: 13 · **Open issues**: 35 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **1,844** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 1 | 0 | 0 | 0 | 0 | 2 |
-| 360d | 2025-11-29 | 2 | 1 | 1 | 1 | 3 | 5 |
-| last720d | 2024-12-04 | 6 | 1 | 1 | 4 | 4 | 16 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 1 | 0 | 0 | 0 | 0 | 2 |
+| 360d | 2025-11-30 | 2 | 1 | 1 | 1 | 3 | 5 |
+| last720d | 2024-12-05 | 6 | 1 | 1 | 4 | 4 | 16 |
 
 ## Release assets
 
@@ -58,14 +58,6 @@ Total: **1,844** lines of code across **14** files in the top 5 languages.
 |-------|-----:|--------|
 | [ttop](https://github.com/inv2004/ttop/releases/download/v1.6.2/ttop) | 573.2 KiB | `other` |
 | [ttop-debug](https://github.com/inv2004/ttop/releases/download/v1.6.2/ttop-debug) | 2.0 MiB | `other` |
-
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/ttop). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.6.2` | ✅ latest |
 
 ## Improve this data
 
@@ -76,4 +68,4 @@ Install metadata for ttop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:43:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:28:45Z._
